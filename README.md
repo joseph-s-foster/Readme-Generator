@@ -48,6 +48,9 @@
   ## Test
   Via command prompt
 
+  ## Screenshot
+  ![screenshot of webpage](./assets/Screenshot.png)
+
   ## Questions
   Please email questions to joseph.s.foster@icloud.com.
   For additional works, please visit [https://github.com/joseph-s-foster](https://github.com/https://github.com/joseph-s-foster)
